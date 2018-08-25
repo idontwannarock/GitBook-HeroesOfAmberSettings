@@ -1,0 +1,6 @@
+/node_modules
+/_book
+/_temp
+*.epub
+*.mobi
+*.pdf
